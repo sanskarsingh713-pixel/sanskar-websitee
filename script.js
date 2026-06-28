@@ -1,5 +1,5 @@
-const defaultUsername = 'ghost';
-const defaultPassword = '1234';
+const defaultUsername = 'user';
+const defaultPassword = 'user';
 
 document.getElementById('loginForm').addEventListener('submit', function(e) {
     e.preventDefault();
